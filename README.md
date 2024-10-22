@@ -29,10 +29,13 @@ Si ça ne compile pas, c’est qu’on n’a pas encore trouvé la bonne ligne d
 - **Containers & Cloud** : Docker, Terraform, Kubernetes
 - **En cours d'exploration** : la configuration sans fin des CI/CD pipelines
 
-![Python](https://img.shields.io/badge/Python-3.9-ff69b4?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-1.60-000000?style=flat-square&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-20.10-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-1.0-7D6B93?style=flat-square&logo=terraform&logoColor=white)
+### Mes Compétences
+| Langage         | Niveau       |
+|------------------|--------------|
+| Rust             | ![Rust](https://img.shields.io/badge/Level%20-Beginner-yellow) |
+| Docker           | ![Docker](https://img.shields.io/badge/Level%20-Intermediate-green) |
+| Terraform        | ![Terraform](https://img.shields.io/badge/Level%20-Beginner-yellow) |
+
 
 ---
 
