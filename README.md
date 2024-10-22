@@ -4,7 +4,9 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 
 ---
 
-![Code Terminal](https://media.giphy.com/media/3ohzdUqCq11h3wQhlS/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohzdUqCq11h3wQhlS/giphy.gif" alt="Code Terminal" />
+</p>
 
 ---
 
