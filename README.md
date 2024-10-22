@@ -1,12 +1,11 @@
-<div align="center">
-  
 # 👋 Hello, je suis **Stafpec** !
 
 Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Docker**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour)
 
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+</p>
 
 ---
 
