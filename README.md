@@ -2,9 +2,7 @@
 
 Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Docker**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour)
 
-![GitHub followers](https://img.shields.io/github/followers/stafpec?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/stafpec?label=Stars&style=social)
-
+![Coding Animation](https://media.giphy.com/media/3o7buuybax9qcDk9bC/giphy.gif)
 
 ---
 
@@ -48,6 +46,8 @@ _"Mon plan A fonctionne rarement, heureusement qu'il y a vingt-cinq autres lettr
 ---
 
 **N'hésite pas à explorer mes dépôts, actuellement ils sont un peu vide mais promis je vais penser à utiliser ce github** (mais fais attention, il pourrait y avoir des traces de Warp dedans 👾)
+
+---
 
 ### 🚀 Stats :
 
