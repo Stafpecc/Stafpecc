@@ -48,3 +48,8 @@ _"Mon plan A fonctionne rarement, heureusement qu'il y a vingt-cinq autres lettr
 ---
 
 **N'hésite pas à explorer mes dépôts, actuellement ils sont un peu vide mais promis je vais penser à utiliser ce github** (mais fais attention, il pourrait y avoir des traces de Warp dedans 👾)
+
+### 🚀 Stats :
+
+![GitHub followers](https://img.shields.io/github/followers/stafpec?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/stafpec?label=Stars&style=social)
