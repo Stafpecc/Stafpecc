@@ -1,6 +1,13 @@
 # 👋 Hello, je suis **Stafpec** !
 
-Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Docker**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour).
+Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Docker**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour)
+
+---
+
+### 🎓 Formation :
+Je suis également un élève de l’école 42 — là où le code devient une véritable langue, et où la "norminette" et la "moulinette" sont les boss à abattre 🧑‍💻
+Après avoir survécu à la piscine, je me prépare pour la suite. Hâte de rencontrer mes prochains segfaults ! 😅 
+Si ça ne compile pas, c’est qu’on n’a pas encore trouvé la bonne ligne de code (ou que mon compilateur a décidé de prendre une pause 🌀)
 
 ---
 
