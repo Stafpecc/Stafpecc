@@ -5,7 +5,7 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdUqCq11h3wQhlS/giphy.gif" alt="Code Terminal" />
+  <img src="[https://media.giphy.com/media/3ohzdUqCq11h3wQhlS/giphy.gif" alt="Code Terminal](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)" />
 </p>
 
 ---
@@ -69,7 +69,5 @@ _"Mon plan A fonctionne rarement, heureusement qu'il y a vingt-cinq autres lettr
 ![GitHub stars](https://img.shields.io/github/stars/stafpec?label=Stars&style=social)
 
 ---
-
-- [Discord](https://discord.com/users/stafpec)
 
 ### **:wq**
