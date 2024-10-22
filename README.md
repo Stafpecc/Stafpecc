@@ -70,4 +70,6 @@ _"Mon plan A fonctionne rarement, heureusement qu'il y a vingt-cinq autres lettr
 
 ---
 
+- [Discord](https://discord.com/users/stafpec)
+
 ### **:wq**
