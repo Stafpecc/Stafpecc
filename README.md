@@ -5,7 +5,7 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 
 
 <p align="center">
-  <img src="(https://media.giphy.com/media/3ohzdUqCq11h3wQhlS/giphy.gif" alt="Code Terminal](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)" />
+  <img src="https://media.giphy.com/media/3ohzdUqCq11h3wQhlS/giphy.gif" alt="Code Terminal](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" />
 </p>
 
 ---
