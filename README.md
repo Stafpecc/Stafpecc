@@ -2,8 +2,6 @@
 
 Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Docker**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour)
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/3ohzdUqCq11h3wQhlS/giphy.gif" alt="Code Terminal" />
 </p>
