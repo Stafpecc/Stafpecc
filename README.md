@@ -59,7 +59,7 @@ _"Mon plan A fonctionne rarement, heureusement qu'il y a vingt-cinq autres lettr
 
 ---
 
-**N'hésite pas à explorer mes dépôts, actuellement ils sont un peu vide mais promis je vais penser à utiliser ce github** (mais fais attention, il pourrait y avoir des traces de Warp dedans 👾)
+**N'hésite pas** à explorer mes **dépôts**, actuellement ils sont un peu vide, mais **promis**, je vais penser à utiliser ce github (seulement fais attention, il pourrait y avoir des traces de **Warp** dedans 👾)
 
 ---
 
