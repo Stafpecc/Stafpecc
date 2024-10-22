@@ -2,8 +2,8 @@
 
 Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Docker**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour)
 
-![Mon animation](https://tenor.com/view/hello-wave-cute-anime-cartoon-gif-15982745)
-
+![GitHub followers](https://img.shields.io/github/followers/stafpec?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/stafpec?label=Stars&style=social)
 
 
 ---
