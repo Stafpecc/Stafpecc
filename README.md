@@ -2,7 +2,7 @@
 
 Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Docker**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour)
 
-![Animation Code](https://media.giphy.com/media/26gJ5LzqOKMu5qgIy/giphy.gif)
+![Terminal Animation](https://media.giphy.com/media/8vQSQ3sT47W7J1HSyE/giphy.gif)
 
 ---
 
@@ -53,3 +53,7 @@ _"Mon plan A fonctionne rarement, heureusement qu'il y a vingt-cinq autres lettr
 
 ![GitHub followers](https://img.shields.io/github/followers/stafpec?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/stafpec?label=Stars&style=social)
+
+---
+
+### **:wq**
