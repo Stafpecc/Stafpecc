@@ -31,11 +31,11 @@ Si ça ne compile pas, c’est qu’on n’a pas encore trouvé la bonne ligne d
 
 
 
-   | Langage         | Niveau       |
-   |------------------|--------------|
-   | Rust             | ![Rust](https://img.shields.io/badge/Level%20-Beginner-yellow) |
-   | Docker           | ![Docker](https://img.shields.io/badge/Level%20-Beginner-yellow) |
-   | Terraform        | ![Terraform](https://img.shields.io/badge/Level%20-Beginner-yellow) |
+  | Langage         | Niveau       |
+  |------------------|--------------|
+  | Rust             | ![Rust](https://img.shields.io/badge/Level%20-Beginner-yellow) |
+  | Docker           | ![Docker](https://img.shields.io/badge/Level%20-Beginner-yellow) |
+  | Terraform        | ![Terraform](https://img.shields.io/badge/Level%20-Beginner-yellow) |
 
 
 
