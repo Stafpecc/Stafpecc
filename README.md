@@ -4,6 +4,13 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 
 ---
 
+### 🏆 Cursus :
+
+Progression : 2.96 / 21  
+<progress value="2.96" max="21"></progress> (14%)
+
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="342">
 </p>
@@ -11,22 +18,22 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 ---
 
 ### 🎓 Formation :
-Je suis également un élève de l’école 42 — là où le code devient une véritable langue, et où la "norminette" et la "moulinette" sont les boss à abattre 🧑‍💻
-Après avoir survécu à la piscine, je me prépare pour la suite. Hâte de rencontrer mes prochains segfaults ! 😅 
+Je suis également un étudiant de l’école 42 — là où le code devient une véritable langue, et où la "norminette" et la "moulinette" sont les boss à abattre (même si actuellement j'ai l'impression qu'ils disparaissent) 🧑‍💻
 Si ça ne compile pas, c’est qu’on n’a pas encore trouvé la bonne ligne de code (ou que mon compilateur a décidé de prendre une pause 🌀)
 
 ---
 
 ### 🚀 Ce que je fais en ce moment :
 - J'apprends à faire du **DevOps**
-- Passionné de **Go**, **Rust** et un peu de tout ce qui touche à l'automatisation et à la gestion des infrastructures
+- J'essaye de mettre en pratique le **Test/Behavior-Driven Development**
+- Passionné de **Go**, **Rust** et un peu de tout ce qui touche à l'automatisation
 - Actuellement en train de travailler sur un **projet secret**... (Je pourrais te le dire, mais ensuite il faudrait que je te fasse coder un pipeline interminable en YAML 😅)
 
 ---
 
 ### 🛠️ Tech Stack :
 - **Langages** : Go, Rust, Bash, C
-- **Containers & Cloud** : Docker, Terraform, Kubernetes
+- **Containers & Cloud** : Docker, Terraform, Ansible
 - **En cours d'exploration** : la configuration sans fin des CI/CD pipelines
 
 
@@ -44,8 +51,8 @@ Si ça ne compile pas, c’est qu’on n’a pas encore trouvé la bonne ligne d
 ### 🎸 À propos de moi :
 Quand je ne suis pas en train de coder, je suis probablement en train de :
 - Jouer de la guitare avec mon groupe de musique **SūnRyze** 🌅
-- Peindre des figurines **Warhammer** (Slaanesh **ftw**, Tzeentch aussi, mais c'est Slaanesh qui a mon cœur 💜)
-- Me battre sur **Smash Bros** avec mon main **Robin/Daraen** (⚔️ Mage tactique > tout le reste)
+- Peindre des figurines **Warhammer** (Slaanesh et Emperor's Children **ftw**💜)
+- Me battre sur **Smash Bros** avec mon main **Robin/Daraen** ⚔️ Mage tactique > tout le reste (Secondary DiddyKong/Byleth)
 
 ---
 
@@ -59,7 +66,7 @@ _"Mon plan A fonctionne rarement, heureusement qu'il y a vingt-cinq autres lettr
 
 ---
 
-**N'hésite pas** à explorer mes dépôts, actuellement ils sont un peu vide, mais **promis**, je vais penser à utiliser ce github (seulement fais attention, il pourrait y avoir des traces de **Warp** dedans 👾)
+**N'hésite pas** à explorer mes dépôts, seulement fais attention, il pourrait y avoir des traces de **Warp** dedans 👾
 
 ---
 
