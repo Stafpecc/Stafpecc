@@ -6,23 +6,8 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 
 ### 🏆 Cursus :
 
-<div style="font-family: Arial, sans-serif; font-size: 18px;">
-  <strong>🚀 Progression : 2.96 / 21 (🔥 14% 🔥)</strong>
-  <div style="width: 100%; background: #222; border-radius: 10px; padding: 5px; margin-top: 5px;">
-    <div style="width: 14%; height: 20px; background: linear-gradient(90deg, #ffcc00, #ff4400); 
-                border-radius: 10px; text-align: right; padding-right: 10px; color: white;
-                font-weight: bold; animation: progressAnim 2s ease-in-out;">
-      14%
-    </div>
-  </div>
-</div>
-
-<style>
-  @keyframes progressAnim {
-    from { width: 0; }
-    to { width: 14%; }
-  }
-</style>
+🚀 Progression : 2.96 / 21 (14%)  
+<progress value="2.96" max="21"></progress>
 
 ---
 
