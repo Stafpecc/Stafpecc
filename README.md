@@ -6,8 +6,8 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 
 ### 🏆 Cursus :
 
-🚀 Progression : 2.96 / 21 (14%)  
-<progress value="2.96" max="21"></progress>
+Progression : 2.96 / 21  
+[▓▓░░░░░░░░░░░░░░░░░░░░░] (14%)
 
 ---
 
