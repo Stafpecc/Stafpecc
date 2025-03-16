@@ -8,7 +8,7 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 
 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 15.43%
 
-# 3.24/21
+3.24/21
 Status: Tutor
 
 ---
