@@ -9,7 +9,6 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.24/21 (15.43%)
 
 Status: Tutor
-
 Project: Philosophers
 
 ---
