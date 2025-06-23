@@ -6,7 +6,7 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 
 ### 🏆 Cursus :
 
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.81/21 (18.14%)
+🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 4.39/21 (20.91%)
 
 - *Status:* **Tutor**
 - *Project:* **Minishell**
