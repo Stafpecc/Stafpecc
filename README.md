@@ -6,10 +6,10 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 
 ### 🏆 Cursus :
 
-🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 4.66/21
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 5.44/21
 
 - *Status:* **Tutor**
-- *Project:* **MiniRT** **NetPractice** **CPP01**
+- *Project:* **MiniRT**
 
 ---
 
