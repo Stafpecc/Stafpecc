@@ -9,7 +9,7 @@ Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'un
 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 7.60/21
 
 - *Status:* **Tutor**
-- *Project:* **Inception, cpp09**
+- *Project:* **Inception**
 
 ---
 
