@@ -1,15 +1,15 @@
 # 👋 Hello, je suis **Stafpec** !
 
-Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Docker**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour)
+Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Kubernetes**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour)
 
 ---
 
 ### 🏆 Cursus :
 
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 7.60/21
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.39/21
 
 - *Status:* **Tutor**
-- *Project:* **Inception**
+- *Project:* **Inception-of-things**
 
 ---
 
@@ -35,18 +35,8 @@ Si ça ne compile pas, c’est qu’on n’a pas encore trouvé la bonne ligne d
 
 ### 🛠️ Tech Stack :
 - **Langages** : Go, Rust, Bash, C
-- **Containers & Cloud** : Docker, Terraform, Ansible
+- **Containers & Cloud** : Docker, Terraform, Kubernetes
 - **En cours d'exploration** : la configuration sans fin des CI/CD pipelines
-
-
-
-  | Langage         | Niveau       |
-  |------------------|--------------|
-  | Rust             | ![Rust](https://img.shields.io/badge/Level%20-Beginner-yellow) |
-  | Docker           | ![Docker](https://img.shields.io/badge/Level%20-Beginner-yellow) |
-  | Terraform        | ![Terraform](https://img.shields.io/badge/Level%20-Beginner-yellow) |
-
-
 
 ---
 
@@ -54,7 +44,7 @@ Si ça ne compile pas, c’est qu’on n’a pas encore trouvé la bonne ligne d
 Quand je ne suis pas en train de coder, je suis probablement en train de :
 - Jouer de la guitare avec mon groupe de musique **SūnRyze** 🌅
 - Peindre des figurines **Warhammer** (Slaanesh et Emperor's Children **ftw**💜)
-- Me battre sur **Smash Bros** avec mon main **Robin/Daraen** ⚔️ Mage tactique > tout le reste (Secondary DiddyKong/Byleth)
+- Me battre sur **Smash Bros** avec mon main **Byleth**
 
 ---
 
@@ -69,13 +59,6 @@ _"Mon plan A fonctionne rarement, heureusement qu'il y a vingt-cinq autres lettr
 ---
 
 **N'hésite pas** à explorer mes dépôts, seulement fais attention, il pourrait y avoir des traces de **Warp** dedans 👾
-
----
-
-### 🚀 Stats :
-
-![GitHub followers](https://img.shields.io/github/followers/stafpec?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/stafpec?label=Stars&style=social)
 
 ---
 
