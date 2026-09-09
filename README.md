@@ -30,18 +30,22 @@
 
 ### [Inception-of-Things](https://github.com/Stafpecc/Inception-of-things) — *en cours (depuis 08/2026)* · équipe de 3 (avec [Sekak](https://github.com/sekak) et [Cipher](https://github.com/Ciph3r-master))
 Mise en place d'un cluster Kubernetes de A à Z, en trois parties : déploiement de deux VM Vagrant avec IP statiques et SSH sans mot de passe, installation de K3s (controller/agent) ; configuration d'un Ingress pour router plusieurs applications selon le nom d'hôte ; automatisation du déploiement continu avec K3d et Argo CD depuis un dépôt GitHub.
+
 outils: `Vagrant` `K3s` `K3d` `Ingress` `Argo CD` `GitHub`
 
 ### [ft_transcendence](https://github.com/ft-transcendence-tkt-on-vera) — *04/2026 – 08/2026* · équipe de 5 (avec [Pandhacker](https://github.com/pandhacker), [Delmath](https://github.com/delmath), [Cipher](https://github.com/Ciph3r-master) et [Annibalbarca](https://github.com/AnnibalBarca))
 Projet final du tronc commun : application web de jeu multijoueur en temps réel, réalisée en équipe. Partie DevOps prise en charge en intégralité : conteneurisation de l'ensemble des microservices, monitoring Prometheus/Grafana, centralisation des logs avec la stack ELK, exposition sécurisée via tunnel Cloudflare et reverse proxy NGINX (HTTPS géré nativement, sans ouverture de ports entrants).
+
 outils: `Docker Compose` `Prometheus` `Grafana` `ELK` `NGINX` `Cloudflare Tunnel`
 
 ### [Inception](https://github.com/Stafpecc/Inception) — *04/2026 – 05/2026* · solo
 Infrastructure système conteneurisée avec Docker : conteneurs buildés à partir de Dockerfiles personnalisés (aucune image pré-construite), orchestrés avec Docker Compose. Stack NGINX (TLS), WordPress + PHP-FPM et MariaDB, chaque service isolé avec volumes persistants et réseau dédié. Bonus : site statique, Portainer, notifications Discord via webhook, cache Redis.
+
 outils: `Docker` `Docker Compose` `NGINX` `WordPress` `MariaDB` `Redis` `Portainer`
 
 ### [Minishell](https://github.com/Stafpecc/minishell) — *03/2025 – 07/2025* · équipe de 2 (avec [ft-ruban](https://github.com/ft-ruban))
 Réimplémentation en binôme d'un shell Unix en C reproduisant les fonctionnalités essentielles de bash : parsing de la ligne de commande, pipes et redirections, builtins (`cd`, `echo`, `exit`, `export`...), gestion des signaux et des processus (fork, exec, wait).
+
 outils: `C` `Linux` `Git`
 
 ---
