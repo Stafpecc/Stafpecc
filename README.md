@@ -10,6 +10,7 @@
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.39/21
 - *Projet en cours :* **Inception-of-Things**
+- *Prochains projets :* **Cloud-1**, **Infrastrucutre-as-Code**
 
 ---
 
