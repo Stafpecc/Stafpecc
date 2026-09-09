@@ -8,7 +8,7 @@
 
 ### 🏆 Progression du cursus
 
-[![tarini's 42 stats](https://badge.mediaplus.ma/darkblue/tarini)](https://github.com/oakoudad/badge42)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.39/21
 - *Projet en cours :* **Inception-of-Things**
 
 ---
