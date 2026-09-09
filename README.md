@@ -1,69 +1,65 @@
-# 👋 Hello, je suis **Stafpec** !
+# 👋 Théo Arini — Étudiant DevOps
 
-Bienvenue sur mon GitHub ! Je suis actuellement en train de me plonger dans l'univers du **DevOps**, je découvre plusieurs technos sympas comme **Go**, **Rust**, **Kubernetes**, et **Terraform**. Mon but dans la vie : automatiser tout, y compris l'inspiration 42 secondes avant la deadline (enfin... peut-être un jour)
+Étudiant et Tuteur à l'École 42 Lyon depuis novembre 2024, en fin de tronc commun (spécialisation DevOps). Quatre projets d'infrastructure menés de bout en bout, du conteneur au cluster Kubernetes. 
+
+📍 Charbonnières-les-Bains (69) · 🎓 42 Lyon · 🔍 Recherche une alternance DevOps/SRE de 24 mois, disponible dès octobre
 
 ---
 
-### 🏆 Cursus :
+### 🏆 Progression du cursus
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.39/21
-
-- *Status:* **Tutor**
-- *Project:* **Inception-of-things**
+- *Projet en cours :* **Inception-of-Things**
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="342">
-</p>
+## 🧰 Stack technique
+
+| Domaine | Outils |
+|---|---|
+| **Conteneurs & orchestration** | Docker, Docker Compose, Kubernetes (K3s, K3d), Ingress |
+| **CI/CD & versioning** | Git, GitHub, Argo CD (GitOps) |
+| **Observabilité** | Prometheus, Grafana, stack ELK (Elasticsearch, Logstash, Kibana) |
+| **Systèmes & réseau** | Linux, Bash, Vagrant, NGINX (reverse proxy, TLS), Cloudflare Tunnel |
+| **Langages** | C, Bash, Rust, Go (notions) |
 
 ---
 
-### 🎓 Formation :
-Je suis également un étudiant de l’école 42 — là où le code devient une véritable langue, et où la "norminette" et la "moulinette" sont les boss à abattre (même si actuellement j'ai l'impression qu'ils disparaissent) 🧑‍💻
-Si ça ne compile pas, c’est qu’on n’a pas encore trouvé la bonne ligne de code (ou que mon compilateur a décidé de prendre une pause 🌀)
+## 🚀 Projets DevOps & infrastructure
+
+### [Inception-of-Things](https://github.com/Stafpecc) — *en cours (depuis 08/2026)* · équipe de 3
+Mise en place d'un cluster Kubernetes de A à Z, en trois parties : déploiement de deux VM Vagrant avec IP statiques et SSH sans mot de passe, installation de K3s (controller/agent) ; configuration d'un Ingress pour router plusieurs applications selon le nom d'hôte ; automatisation du déploiement continu avec K3d et Argo CD depuis un dépôt GitHub.
+`Vagrant` `K3s` `K3d` `Ingress` `Argo CD` `GitHub`
+
+### ft_transcendence — *04/2026 – 08/2026* · équipe de 5
+Projet final du tronc commun : application web de jeu multijoueur en temps réel, réalisée en équipe. Partie DevOps prise en charge en intégralité : conteneurisation de l'ensemble des microservices, monitoring Prometheus/Grafana, centralisation des logs avec la stack ELK, exposition sécurisée via tunnel Cloudflare et reverse proxy NGINX (HTTPS géré nativement, sans ouverture de ports entrants).
+`Docker Compose` `Prometheus` `Grafana` `ELK` `NGINX` `Cloudflare Tunnel`
+
+### Inception — *04/2026 – 05/2026* · solo
+Infrastructure système conteneurisée avec Docker : conteneurs buildés à partir de Dockerfiles personnalisés (aucune image pré-construite), orchestrés avec Docker Compose. Stack NGINX (TLS), WordPress + PHP-FPM et MariaDB, chaque service isolé avec volumes persistants et réseau dédié. Bonus : site statique, Portainer, notifications Discord via webhook, cache Redis.
+`Docker` `Docker Compose` `NGINX` `WordPress` `MariaDB` `Redis` `Portainer`
+
+### Minishell — *03/2025 – 07/2025* · équipe de 2
+Réimplémentation en binôme d'un shell Unix en C reproduisant les fonctionnalités essentielles de bash : parsing de la ligne de commande, pipes et redirections, builtins (`cd`, `echo`, `exit`, `export`...), gestion des signaux et des processus (fork, exec, wait).
+`C` `Linux` `Git`
 
 ---
 
-### 🚀 Ce que je fais en ce moment :
-- J'apprends à faire du **DevOps**
-- J'essaye de mettre en pratique le **Test/Behavior-Driven Development**
-- Passionné de **Go**, **Rust** et un peu de tout ce qui touche à l'automatisation
-- Actuellement en train de travailler sur un **projet secret**... (Je pourrais te le dire, mais ensuite il faudrait que je te fasse coder un pipeline interminable en YAML 😅)
+## 🎓 Engagements à 42 Lyon
+
+- **Tuteur** *(depuis 11/2024)* -- accompagnement d'étudiants en peer-to-peer sur leurs projets et animation d'ateliers DevOps.
+- **Responsable du club Warhammer** *(depuis 11/2024)* -- organisation d'événements et coordination des membres.
 
 ---
 
-### 🛠️ Tech Stack :
-- **Langages** : Go, Rust, Bash, C
-- **Containers & Cloud** : Docker, Terraform, Kubernetes
-- **En cours d'exploration** : la configuration sans fin des CI/CD pipelines
+## 🌐 Langues
+
+**Français** -- langue maternelle
+**Anglais** -- documentation technique
 
 ---
 
-### 🎸 À propos de moi :
-Quand je ne suis pas en train de coder, je suis probablement en train de :
-- Jouer de la guitare avec mon groupe de musique **SūnRyze** 🌅
-- Peindre des figurines **Warhammer** (Slaanesh et Emperor's Children **ftw**💜)
-- Me battre sur **Smash Bros** avec mon main **Byleth**
+## 📫 Me contacter
 
----
-
-### 🎮 Fun fact :
-Si je devais automatiser une partie de ma vie avec Terraform, ce serait probablement la gestion de mes dés sur **Warhammer**. Mais bon, je ne pense pas que je trouverais un module pour invoquer Slaanesh directement dans mon repo. Quoique...
-
----
-
-### 💬 Citation favorite :
-_"Mon plan A fonctionne rarement, heureusement qu'il y a vingt-cinq autres lettres dans l'alphabet"_
-
----
-
-**N'hésite pas** à explorer mes dépôts, seulement fais attention, il pourrait y avoir des traces de **Warp** dedans 👾
-
----
-
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Description de l'image" width="42"/>
-</p>
-
-### **:wq**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stafpec/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Stafpecc)
