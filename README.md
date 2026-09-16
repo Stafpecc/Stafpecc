@@ -28,12 +28,12 @@
 
 ## 🚀 Projets DevOps & infrastructure
 
-### [Inception-of-Things](https://github.com/Stafpecc/Inception-of-things) — *en cours (depuis 08/2026)* · équipe de 3 (avec [Sekak](https://github.com/sekak) et [Cipher](https://github.com/Ciph3r-master))
+### [Inception-of-Things]() — *en cours (depuis 08/2026)* · équipe de 2 ou 3 (avec [Cipher](https://github.com/Ciph3r-master))
 Mise en place d'un cluster Kubernetes de A à Z, en trois parties : déploiement de deux VM Vagrant avec IP statiques et SSH sans mot de passe, installation de K3s (controller/agent) ; configuration d'un Ingress pour router plusieurs applications selon le nom d'hôte ; automatisation du déploiement continu avec K3d et Argo CD depuis un dépôt GitHub.
 
 outils: `Vagrant` `K3s` `K3d` `Ingress` `Argo CD` `GitHub`
 
-### [ft_transcendence](https://github.com/ft-transcendence-tkt-on-vera) — *04/2026 – 08/2026* · équipe de 5 (avec [Pandhacker](https://github.com/pandhacker), [Delmath](https://github.com/delmath), [Cipher](https://github.com/Ciph3r-master) et [Annibalbarca](https://github.com/AnnibalBarca))
+### [ft_transcendence](https://github.com/ft-transcendence-tkt-on-vera) — *04/2026 – 08/2026* · équipe de 4 ou 5 (avec [Pandhacker](https://github.com/pandhacker), [Delmath](https://github.com/delmath), [Cipher](https://github.com/Ciph3r-master) et [Annibalbarca](https://github.com/AnnibalBarca))
 Projet final du tronc commun : application web de jeu multijoueur en temps réel, réalisée en équipe. Partie DevOps prise en charge en intégralité : conteneurisation de l'ensemble des microservices, monitoring Prometheus/Grafana, centralisation des logs avec la stack ELK, exposition sécurisée via tunnel Cloudflare et reverse proxy NGINX (HTTPS géré nativement, sans ouverture de ports entrants).
 
 outils: `Docker Compose` `Prometheus` `Grafana` `ELK` `NGINX` `Cloudflare Tunnel`
