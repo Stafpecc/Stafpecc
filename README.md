@@ -20,6 +20,7 @@
 |---|---|
 | **Conteneurs & orchestration** | Docker, Docker Compose, Kubernetes (K3s, K3d), Ingress |
 | **CI/CD & versioning** | Git, GitHub, Argo CD (GitOps) |
+| **Infrastructure as Code** | Terraform, Ansible |
 | **Observabilité** | Prometheus, Grafana, stack ELK (Elasticsearch, Logstash, Kibana) |
 | **Systèmes & réseau** | Linux, Bash, Vagrant, NGINX (reverse proxy, TLS), Cloudflare Tunnel |
 | **Langages** | C, Bash, Rust, Go (notions) |
