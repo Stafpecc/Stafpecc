@@ -29,7 +29,7 @@
 
 ## 🚀 Projets DevOps & infrastructure
 
-### [Inception-of-Things]() — *en cours (depuis 08/2026)* · équipe de 2 ou 3 (avec [Cipher](https://github.com/Ciph3r-master))
+### [Inception-of-Things]() — *en cours (depuis 08/2026)* · équipe de 2 ou 3 (avec [Cipher](https://github.com/Ciph3r-master) et [Delmath](https://github.com/delmath))
 Mise en place d'un cluster Kubernetes de A à Z, en trois parties : déploiement de deux VM Vagrant avec IP statiques et SSH sans mot de passe, installation de K3s (controller/agent) ; configuration d'un Ingress pour router plusieurs applications selon le nom d'hôte ; automatisation du déploiement continu avec K3d et Argo CD depuis un dépôt GitHub.
 
 outils: `Vagrant` `K3s` `K3d` `Ingress` `Argo CD` `GitHub`
