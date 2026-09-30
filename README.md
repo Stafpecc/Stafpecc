@@ -60,8 +60,8 @@ outils: `C` `Linux` `Git`
 
 ## 🌐 Langues
 
-**Français** -- langue maternelle
-**Anglais** -- documentation technique
+- **Français** -- langue maternelle
+- **Anglais** -- documentation technique
 
 ---
 
