@@ -1,6 +1,6 @@
-# 👋 Théo Arini — Étudiant DevOps
+# 👋 Eden Arini — Étudiante DevOps
 
-Étudiant et Tuteur à l'École 42 Lyon depuis novembre 2024, en fin de tronc commun (spécialisation DevOps). Quatre projets d'infrastructure menés de bout en bout, du conteneur au cluster Kubernetes. 
+Étudiante et Tutrice à l'École 42 Lyon depuis novembre 2024, en fin de tronc commun (spécialisation DevOps). Quatre projets d'infrastructure menés de bout en bout, du conteneur au cluster Kubernetes. 
 
 📍 Charbonnières-les-Bains (69) · 🎓 42 Lyon · 🔍 Recherche une alternance DevOps/SRE de 24 mois, disponible dès octobre
 
@@ -53,7 +53,7 @@ outils: `C` `Linux` `Git`
 
 ## 🎓 Engagements à 42 Lyon
 
-- **Tuteur** *(depuis 11/2024)* -- accompagnement d'étudiants en peer-to-peer sur leurs projets et animation d'ateliers DevOps.
+- **Tutrice** *(depuis 11/2024)* -- accompagnement d'étudiants en peer-to-peer sur leurs projets et animation d'ateliers DevOps.
 - **Responsable du club Warhammer** *(depuis 11/2024)* -- organisation d'événements et coordination des membres.
 
 ---
