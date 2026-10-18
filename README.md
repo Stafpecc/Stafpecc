@@ -9,8 +9,8 @@
 ### 🏆 Progression du cursus
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.39/21
-- *Projet en cours :* **Inception-of-Things**
-- *Prochains projets :* **Cloud-1**, **Infrastructure-as-Code**
+- *Projet en cours :* **Inception-of-Things**, **Cloud-1**
+- *Prochains projets :* **Infrastructure-as-Code**
 
 ---
 
