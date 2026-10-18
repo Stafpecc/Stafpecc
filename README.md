@@ -29,7 +29,12 @@
 
 ## 🚀 Projets DevOps & infrastructure
 
-### [Inception-of-Things]() — *en cours (depuis 08/2026)* · équipe de 2 ou 3 (avec [Cipher](https://github.com/Ciph3r-master) et [Delmath](https://github.com/delmath))
+### [cloud-1](https://github.com/Stafpecc/cloud-1) — *en cours (depuis 10/2026)* · équipe de 2 ()
+Automatisation complète du déploiement d’un site WordPress sur serveurs distants avec Ansible : environnement de développement sur deux VM Vagrant (IP statiques, inventaire multi-hôtes) ; installation de Docker via le dépôt officiel, puis stack multi-conteneurs (WordPress, MariaDB, phpMyAdmin, reverse proxy nginx) avec un processus par conteneur, réseaux isolés, volumes persistants et routage selon le nom d’hôte ; code organisé en rôles Ansible idempotents (docker, firewall, app), secrets chiffrés avec ansible-vault, pare-feu limité aux ports 22, 80 et 443, TLS avec Let’s Encrypt, et déploiement en parallèle sur des instances cloud.
+
+outils: `Vagrant` `Ansible` `Terraform`
+
+### [Inception-of-Things](https://github.com/Stafpecc/Inception-of-things) — *en cours (depuis 08/2026)* · équipe de 2 ou 3 (avec [Cipher](https://github.com/Ciph3r-master) et [Delmath](https://github.com/delmath))
 Mise en place d'un cluster Kubernetes de A à Z, en trois parties : déploiement de deux VM Vagrant avec IP statiques et SSH sans mot de passe, installation de K3s (controller/agent) ; configuration d'un Ingress pour router plusieurs applications selon le nom d'hôte ; automatisation du déploiement continu avec K3d et Argo CD depuis un dépôt GitHub.
 
 outils: `Vagrant` `K3s` `K3d` `Ingress` `Argo CD` `GitHub`
